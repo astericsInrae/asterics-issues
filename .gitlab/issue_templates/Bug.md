@@ -1,17 +1,17 @@
 ### Before you post this issue, please check if this issue has not been already posted [https://forgemia.inra.fr/asterics/asterics-issues/-/issues] ###
+### Please add a tag bug. Thank you for helping us to improve ASTERICS.  ###
 
 ## Description of the bug : 
-(A clear and concise description of what the bug is.)
+make a clear and detailed description of the bug (in French or English)
 
 ## Page/Analysis concerned by the bug: 
 (eg: Explore/PCA on dataset protein)
 
-## Workspace id/url : url
-(find url in the page "My workspace", 
-notice this issue will be public so your data can be publically accessible)
+## Relevant files : You can attach screenshot or when possible, the data that produced the bug (or an extract of them)
 
-## Relevant files : You can attach screenshot or file to help us to debug.
-Please drag and drop the relevant files here. Create a .zip archive if the extension is not allowed.
+## Workspace id/url : !!! Do not provide your UID if your data are private: 
+this project is public and anyone could access your project if you do so.!!!
+You can find url in the page "My workspace".
 
 ## System information
 OS/web browser used: 
