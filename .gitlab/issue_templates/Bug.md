@@ -1,5 +1,4 @@
 ### Before you post this issue, please check if this issue has not been already posted [https://forgemia.inra.fr/asterics/asterics-issues/-/issues] ###
-### Please add a tag bug. Thank you for helping us to improve ASTERICS.  ###
 
 ## Description of the bug : 
 make a clear and detailed description of the bug (in French or English)
@@ -15,3 +14,5 @@ You can find url in the page "My workspace".
 
 ## System information
 OS/web browser used: 
+
+### Please add label bug (see below). Thank you for helping us to improve ASTERICS.  ###
