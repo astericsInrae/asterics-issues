@@ -1,18 +1,25 @@
-### Before you post this issue, please check if this issue has not been already posted [https://forgemia.inra.fr/asterics/asterics-issues/-/issues] ###
+**Before you post this issue, please check if this issue has not been already posted [https://forgemia.inra.fr/asterics/asterics-issues/-/issues]**
 
-## Description of the bug : 
-make a clear and detailed description of the bug (in French or English)
+**Please add label "Bug" (see below).**
 
-## Page/Analysis concerned by the bug: 
-(eg: Explore/PCA on dataset protein)
+**Thank you for helping us to improve ASTERICS!**
 
-## Relevant files : You can attach screenshot or when possible, the data that produced the bug (or an extract of them)
+## Description of the bug
 
-## Workspace id/url : !!! Do not provide your UID if your data are private: 
-this project is public and anyone could access your project if you do so.!!!
-You can find url in the page "My workspace".
+Make a clear and detailed description of the bug (in French or English).
+
+## Page (on ASTERICS) and analysis concerned by the bug
+
+(*e.g.*, Explore/PCA on dataset protein)
+
+## Relevant files
+
+You can attach screenshots or when possible, the data that produced the bug (or an extract of them).
+
+## Workspace id/url
+
+!!! **Do not provide your UID** if your data are private: this issue project is public and anyone could access your project if you do so!!! If, nevertheless, you want to share your UID or URL, you make it at your own risk. You can find IUD/URL on page "My workspace".
 
 ## System information
-OS/web browser used: 
 
-### Please add label bug (see below). Thank you for helping us to improve ASTERICS.  ###
+OS/web browser used.

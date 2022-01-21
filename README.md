@@ -2,7 +2,7 @@
 
 This project is meant to report bugs or suggestions for the tool ASTERICS.
 
-To do so, please, go to the menu "Issues" on the left panel. 
+To do so, please, go to the menu "Issues" on the left panel and, when writing your issue, select one of the two templates "Bug" or "Feature_request" for further instructions.
 
 ## 1. Report a bug
 
